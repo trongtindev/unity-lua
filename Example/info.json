@@ -1,0 +1,11 @@
+{
+  "name": "example-mod",
+  "displayName": "Example Mod",
+  "version": "0.0.1",
+  "description": "This is example mod",
+  "thumbnail": "thumbnail.png",
+  "screenshots": [],
+  "dependencies": {
+    "game": "*"
+  }
+}
